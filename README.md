@@ -1,4 +1,4 @@
-EDx Machine Learning
+edX Machine Learning
 ====================
 
-Course notes for EDx machine learning "Learning from Data"
+Notes for edX machine learning course [Learning from Data](https://www.edx.org/course/caltechx/cs1156x/learning-data/1120).
