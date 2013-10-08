@@ -1,3 +1,6 @@
+# hidden files
+*homework.ipynb
+
 *.py[cod]
 
 # C extensions
